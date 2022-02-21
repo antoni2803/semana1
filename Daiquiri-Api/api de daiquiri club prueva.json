@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "nombre": "plisen",
+    "producto": "cerveza",
+    "precio": "5 soles",
+    
+  },
+  {
+    "id": 2,
+    "nombre": "cusqueña",
+    "producto": "cerveza",
+    "precio": "6.50 soles",
+    
+  },
+  {
+    "id": 3,
+    "nombre": "cristal",
+    "producto": "cerveza",
+    "precio": "6 soles",
+    
+  },
+  {
+    "id": 4,
+    "nombre": "vodka MiKES hard lemonade",
+    "producto": "lata",
+    "precio": "5 soles unidad",
+    
+  },
+  {
+    "id": 5,
+    "nombre": "JOHNNIE WALKER",
+    "producto": "WHISKY",
+    "precio": "100 soles",
+    
+  },
+  {
+    "id": 6,
+    "nombre": "OLD PARR",
+    "producto": "WHISKY",
+    "precio": "80 soles",
+    
+  },
+  {
+    "id": 7,
+    "nombre": "BAILEYS",
+    "producto": "LICOR DE CREMA",
+    "precio": "65 soles",
+    
+  },
+  {
+    "id": 8,
+    "nombre": "SMIRNOFF",
+    "producto": "VODKA",
+    "precio": "33 soles",
+    
+  },
+  {
+    "id": 9,
+    "nombre": "JOSE CUERVO",
+    "producto": "TEQUILA",
+    "precio": "65 soles",
+    
+  },
+  {
+    "id": 10,
+    "nombre": "RUSSKAYA WILD",
+    "producto": "cerveza",
+    "precio": "4.50 soles",
+    
+  },
+]
